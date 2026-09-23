@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,Rating,Stock
+P001,Laptop,Electronics,55000,4.5,25
+P002,Headphones,Electronics,2500,4.2,50
+P003,T-Shirt,Fashion,799,4,100
+P004,Shoes,Fashion,1999,4.3,60
+P005,Smartphone,Electronics,28000,4.6,35
+P006,Backpack,Accessories,1499,4.1,75
+P007,Watch,Accessories,3499,4.4,40
+P008,Keyboard,Electronics,1800,4,55
+P009,Jeans,Fashion,2200,3.9,45
+P010,Mouse,Electronics,999,4.2,80
+P011,Tablet,Electronics,22000,4.5,30
+P012,Jacket,Fashion,2999,4.2,35
+P013,Sunglasses,Accessories,1299,4.1,70
+P014,Printer,Electronics,12500,4,20
+P015,Handbag,Accessories,2499,4.3,45
+P016,Sneakers,Fashion,3299,4.5,55
+P017,Monitor,Electronics,14500,4.4,28
+P018,Cap,Fashion,599,3.8,90
+P019,Power Bank,Electronics,1499,4.2,65
+P020,Wallet,Accessories,899,4,85
+P021,Desktop PC,Electronics,62000,4.6,15
+P022,Dress,Fashion,2499,4.3,40
+P023,Earbuds,Electronics,1799,4.4,75
+P024,Belt,Accessories,699,4.1,80
+P025,Gaming Chair,Furniture,18500,4.5,18
+P026,Sofa Cover,Furniture,1599,4,35
+P027,Coffee Table,Furniture,7500,4.2,12
+P028,Bookshelf,Furniture,6800,4.3,20
+P029,Office Chair,Furniture,9200,4.4,16
+P030,Study Table,Furniture,8500,4.1,14
+P031,Water Bottle,Home,499,4.2,120
+P032,Lunch Box,Home,799,4,90
+P033,Cookware Set,Home,3499,4.5,45
+P034,Mixer Grinder,Home,4999,4.3,25
+P035,Electric Kettle,Home,1899,4.2,50
+P036,Bedsheet,Home,1299,4.1,65
+P037,Pillow,Home,699,4,100
+P038,Curtains,Home,1599,4.2,55
+P039,Floor Lamp,Home,2299,4.4,30
+P040,Wall Clock,Home,999,4.1,70
+P041,Smart TV,Electronics,42000,4.6,18
+P042,Soundbar,Electronics,8500,4.4,25
+P043,Webcam,Electronics,2999,4.2,40
+P044,USB Hub,Electronics,899,4,90
+P045,Router,Electronics,2199,4.3,55
+P046,Air Conditioner,Appliances,38000,4.5,10
+P047,Refrigerator,Appliances,42000,4.6,12
+P048,Washing Machine,Appliances,32000,4.4,14
+P049,Microwave Oven,Appliances,11500,4.3,22
+P050,Vacuum Cleaner,Appliances,7999,4.2,20
+P051,Air Fryer,Appliances,5999,4.5,28
+P052,Toaster,Appliances,1799,4,40
+P053,Iron,Appliances,1499,4.1,50
+P054,Hair Dryer,Beauty,1899,4.3,60
+P055,Hair Straightener,Beauty,2499,4.2,45
+P056,Face Wash,Beauty,399,4,120
+P057,Perfume,Beauty,1599,4.4,70
+P058,Moisturizer,Beauty,599,4.2,95
+P059,Shampoo,Beauty,499,4.1,110
+P060,Makeup Kit,Beauty,2299,4.3,50
+P061,Face Serum,Beauty,899,4.5,80
+P062,Lipstick,Beauty,699,4.2,100
+P063,Cricket Bat,Sports,2499,4.5,35
+P064,Football,Sports,999,4.3,60
+P065,Tennis Racket,Sports,3299,4.4,25
+P066,Yoga Mat,Sports,799,4.5,85
+P067,Dumbbells,Sports,1899,4.2,40
+P068,Badminton Set,Sports,1599,4.1,50
+P069,Cycling Helmet,Sports,2199,4.4,30
+P070,Skipping Rope,Sports,399,4,100
+P071,Novel,Books,499,4.5,80
+P072,Programming Book,Books,899,4.6,45
+P073,Cookbook,Books,699,4.3,55
+P074,Children's Book,Books,399,4.4,90
+P075,History Book,Books,599,4.2,50
+P076,Notebook Set,Stationery,299,4.1,120
+P077,Pen Set,Stationery,199,4.3,150
+P078,Marker Set,Stationery,249,4.2,100
+P079,Calculator,Stationery,599,4.4,65
+P080,Desk Organizer,Stationery,449,4,75
+P081,School Bag,Accessories,1299,4.2,60
+P082,Travel Bag,Accessories,2199,4.3,45
+P083,Umbrella,Accessories,699,4.1,85
+P084,Keychain,Accessories,199,3.9,140
+P085,Travel Pillow,Accessories,899,4.2,70
+P086,Garden Chair,Furniture,4500,4,18
+P087,Bookshelf Lamp,Home,1299,4.3,35
+P088,Smartwatch,Electronics,4999,4.5,42
+P089,Fitness Band,Electronics,2499,4.3,55
+P090,Mobile Cover,Accessories,499,4.1,130
+P091,LED Bulb,Home,299,4.4,150
+P092,Extension Board,Electronics,799,4.2,100
+P093,Bluetooth Speaker,Electronics,2999,4.5,48
+P094,Gaming Mouse,Electronics,2199,4.4,38
+P095,Gaming Keyboard,Electronics,3999,4.5,32
+P096,Formal Shirt,Fashion,1799,4.2,50
+P097,Saree,Fashion,3499,4.4,35
+P098,Sandals,Fashion,1299,4,65
+P099,Travel Trolley,Accessories,3999,4.3,28
+P100,Digital Camera,Electronics,45000,4.6,12
